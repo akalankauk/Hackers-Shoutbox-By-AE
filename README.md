@@ -7,4 +7,4 @@ Amazing Simple Chat Room For Hackers :)
 - Recommend For Hackers :)
 
 #### Security
-- User PHP page locker to lock shoutbox '''https://github.com/akalankauk/PHP-Page-Locker'''
+- User PHP page locker to lock shoutbox [ https://github.com/akalankauk/PHP-Page-Locker ]
