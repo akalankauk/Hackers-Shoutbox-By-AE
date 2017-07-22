@@ -216,6 +216,6 @@ setInterval (loadLog, 2500);
 </body>
 <footer>
     <br></br>
-    <span class="copyright">Copyright © <a href="https://github.com/akalankauk" target="_blank">AE Developers</a>
+    <span class="copyright">Copyright © <a href="https://github.com/akalankauk/" target="_blank">AE Developers</a>
 </footer>
 </html>
